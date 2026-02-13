@@ -4,10 +4,8 @@
 
 <br/>
 
-<h1>
-  <span style="background: linear-gradient(90deg,#58A6FF,#8A2BE2,#00C9A7); -webkit-background-clip: text; color: transparent;">
-    Aswini Kumar Barad
-  </span>
+<h1 align="center">
+  <span style="color:#58A6FF;">Aswini Kumar Barad</span>
 </h1>
 
 ### Aspiring Software Developer  
@@ -85,17 +83,25 @@ Currently building real-world projects to strengthen development skills.
 
 ## Selected Projects
 
-### Sentiment Analysis  
-Machine learning based text classification using TF-IDF and Logistic Regression.
+🔹 **Sentiment Analysis**
+- ✨ Text classification using TF-IDF  
+- ✨ Logistic Regression model  
+- ✨ Accuracy optimized with evaluation metrics  
 
-### Credit Fraud Detection  
-Fraud prediction system using supervised learning techniques.
+🔹 **Credit Fraud Detection**
+- ⚡ Supervised learning model  
+- ⚡ Data preprocessing & feature scaling  
+- ⚡ Fraud prediction system  
 
-### Sidebar Menu (HTML & CSS)  
-Responsive sidebar UI built purely using HTML and CSS (No JavaScript).
+🔹 **Sidebar Menu (HTML & CSS)**
+- 💡 Pure HTML & CSS design  
+- 💡 Responsive layout  
+- 💡 Clean UI implementation  
 
-### VoltShare  
-EV charging sharing platform using Flutter, Google Maps integration, and payment gateway.
+🔹 **VoltShare**
+- 🚀 Flutter-based application  
+- 🚀 Google Maps integration  
+- 🚀 Payment gateway integration  
 
 ---
 
@@ -124,5 +130,3 @@ EV charging sharing platform using Flutter, Google Maps integration, and payment
 ### “Build clean. Build scalable. Build impact.”
 
 </div>
-
-
