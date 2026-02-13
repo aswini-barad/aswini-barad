@@ -5,8 +5,8 @@
   <span style="color:#00C9A7;">Aswini Kumar Barad</span> 👋
 </h1>
 
-🔹 **Aspiring Software Developer**  
-🔹 **Web Development • Machine Learning Enthusiast**
+✨ **Aspiring Software Developer**  
+🌐 **Web Development • Machine Learning Enthusiast**
 
 <br/>
 
@@ -85,11 +85,8 @@
 ## Selected Projects
 
 - 📊 **Sentiment Analysis** – ML-based text classification using TF-IDF & Logistic Regression.  
-
 - 💳 **Credit Fraud Detection** – Supervised learning model for fraud prediction.  
-
 - 🎨 **Sidebar Menu (HTML & CSS)** – Responsive UI built purely using HTML & CSS.  
-
 - ⚡ **VoltShare** – Flutter-based EV charging platform with Maps & payment integration.  
 
 ---
@@ -116,6 +113,6 @@
 
 <div align="center">
 
-### “Build clean. Build scalable. Build impact.”
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Build+clean.;Build+scalable.;Build+impact." />
 
 </div>
