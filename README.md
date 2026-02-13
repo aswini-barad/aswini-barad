@@ -1,25 +1,28 @@
 <div align="center">
 
-<h1>
-  <span style="color:#58A6FF;">Hey, I am</span> 
-  <span style="color:#00C9A7;">Aswini Kumar Barad</span> 👋
-</h1>
+## 👋 Hey, I am <span style="color:#00C9A7;">Aswini Kumar Barad</span>
 
-✨ **Aspiring Software Developer**  
-🌐 **Web Development • Machine Learning Enthusiast**
+✨ Aspiring Software Developer  
+🌐 Web Development • Machine Learning Enthusiast  
 
-<br/>
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/aswinikumarbarad/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/aswini_barad" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" height="35"/>
+  <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/profile/aswini_barad" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height="35"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height="40"/>
 </a>
 
 </div>
@@ -113,6 +116,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Build+clean.;Build+scalable.;Build+impact." />
+### “Build clean. Build scalable. Build impact.”
 
 </div>
