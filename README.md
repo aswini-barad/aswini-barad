@@ -27,31 +27,67 @@
 
 Computer Science undergraduate focused on building scalable applications and intelligent systems.  
 Strong foundation in Data Structures, Algorithms, and Machine Learning.  
-Currently working on real-world projects to strengthen development skills.
+Currently building real-world projects to strengthen development skills.
 
 ---
 
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,flutter,dart,git,github,vscode" />
+
+<a href="https://docs.oracle.com/javase/tutorial/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java" height="55"/>
+</a>
+
+<a href="https://docs.python.org/3/tutorial/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" height="55"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" height="55"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css" height="55"/>
+</a>
+
+<a href="https://flutter.dev/docs" target="_blank">
+  <img src="https://skillicons.dev/icons?i=flutter" height="55"/>
+</a>
+
+<a href="https://dart.dev/guides" target="_blank">
+  <img src="https://skillicons.dev/icons?i=dart" height="55"/>
+</a>
+
+<a href="https://git-scm.com/docs" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" height="55"/>
+</a>
+
+<a href="https://docs.github.com/en" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+<a href="https://code.visualstudio.com/docs" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+</a>
+
 </div>
 
 ---
 
 ## Selected Projects
 
-**Sentiment Analysis**  
-Machine learning model for text classification using TF-IDF and Logistic Regression.
+### Sentiment Analysis  
+Machine learning based text classification using TF-IDF and Logistic Regression.
 
-**Credit Fraud Detection**  
+### Credit Fraud Detection  
 Fraud prediction system using supervised learning techniques.
 
-**Sidebar Menu (HTML & CSS)**  
-Responsive sidebar UI built purely with HTML and CSS.
+### Sidebar Menu (HTML & CSS)  
+Responsive sidebar UI built purely using HTML and CSS (No JavaScript).
 
-**VoltShare**  
-EV charging sharing platform using Flutter, Maps integration, and payment gateway.
+### VoltShare  
+EV charging sharing platform using Flutter, Google Maps integration, and payment gateway.
 
 ---
 
@@ -59,16 +95,18 @@ EV charging sharing platform using Flutter, Maps integration, and payment gatewa
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aswini-barad&show_icons=true&hide_border=true&theme=transparent" height="160"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aswini-barad&hide_border=true&theme=transparent" height="160"/>
 
 </div>
 
-<br/>
+---
+
+## Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aswini-barad&theme=github-compact&hide_border=true"/>
 </div>
 
 ---
@@ -78,6 +116,4 @@ EV charging sharing platform using Flutter, Maps integration, and payment gatewa
 ### “Build clean. Build scalable. Build impact.”
 
 </div>
-
-
 
