@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi,+I+am+Aswini+Kumar+Barad" />
-
-<br/>
+<h1>
+  <span style="color:#00BFFF;">Aswini Kumar Barad</span>
+</h1>
 
 🔹 **Aspiring Software Developer**  
 🔹 **Web Development • Machine Learning Enthusiast**
@@ -11,12 +11,12 @@
 
 <!-- University Section -->
 <a href="https://www.soa.ac.in/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/4a/SOA_University_logo.png" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/SOA_University_logo.png" height="70"/>
 </a>
 
 <br/>
 
-**B.Tech Computer Science Engineering**  
+**B.Tech Computer Science Engineering (2023–2027)**  
 Siksha 'O' Anusandhan (SOA University), Bhubaneswar
 
 <br/>
