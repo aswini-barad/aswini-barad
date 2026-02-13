@@ -1,15 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Aswini+Kumar+Barad;Aspiring+Software+Developer;Web+Development+Enthusiast;Machine+Learning+Enthusiast;Building+Clean+%26+Scalable+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=45&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aswini+Kumar+Barad" />
 
 <br/>
 
-<h1 align="center">
-  <span style="color:#58A6FF;">Aswini Kumar Barad</span>
-</h1>
-
-### Aspiring Software Developer  
-### Web Development • Machine Learning Enthusiast
+🔹 **Aspiring Software Developer**  
+🔹 **Web Development • Machine Learning Enthusiast**
 
 <br/>
 
