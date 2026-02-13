@@ -1,40 +1,31 @@
 <div align="center">
 
-<h1>
-  <span style="color:#58A6FF;">Hey, I am</span> 
-  <span style="color:#00C9A7;">Aswini Kumar Barad</span> 👋
-</h1>
+## 👋 Hey, I am <span style="color:#00C9A7;">Aswini Kumar Barad</span>
 
-✨ **Aspiring Software Developer**  
-🌐 **Web Development • Machine Learning Enthusiast**
-
-<br/>
-
-<a href="https://www.linkedin.com/in/aswinikumarbarad/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/aswini_barad" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" height="35"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/aswini_barad" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height="35"/>
-</a>
+✦ Aspiring Software Developer  
+✦ Web Development • Machine Learning Enthusiast  
 
 </div>
 
 ---
 
-## About
+## ⟢ ⟢ 🌐 CONNECT WITH ME ⟢ ⟢
 
-- 💻 Computer Science undergraduate focused on building scalable applications.  
-- 🧠 Strong foundation in Data Structures, Algorithms, and Machine Learning.  
-- 🚀 Currently building real-world projects to strengthen development skills.  
+▸ 💼 [LinkedIn](https://www.linkedin.com/in/aswinikumarbarad/)  
+▸ 🐦 [Twitter](https://twitter.com/aswini_barad)  
+▸ 💻 [HackerRank](https://www.hackerrank.com/profile/aswini_barad)
 
 ---
 
-## Tech Stack
+## ⟢ ⟢ 🧠 ABOUT ⟢ ⟢
+
+▸ 💻 Computer Science undergraduate focused on building scalable applications.  
+▸ 🧠 Strong foundation in Data Structures, Algorithms, and Machine Learning.  
+▸ 🚀 Currently building real-world projects to strengthen development skills.  
+
+---
+
+## ⟢ ⟢ 🛠 TECH STACK ⟢ ⟢
 
 <div align="center">
 
@@ -82,16 +73,19 @@
 
 ---
 
-## Selected Projects
+## ⟢ ⟢ 🚀 PROJECTS ⟢ ⟢
 
-- 📊 **Sentiment Analysis** – ML-based text classification using TF-IDF & Logistic Regression.  
-- 💳 **Credit Fraud Detection** – Supervised learning model for fraud prediction.  
-- 🎨 **Sidebar Menu (HTML & CSS)** – Responsive UI built purely using HTML & CSS.  
-- ⚡ **VoltShare** – Flutter-based EV charging platform with Maps & payment integration.  
+▸ 📊 **Sentiment Analysis** – ML-based text classification using TF-IDF & Logistic Regression.  
+
+▸ 💳 **Credit Fraud Detection** – Supervised learning model for fraud prediction.  
+
+▸ 🎨 **Sidebar Menu (HTML & CSS)** – Responsive UI built purely using HTML & CSS.  
+
+▸ ⚡ **VoltShare** – Flutter-based EV charging platform with Maps & payment integration.  
 
 ---
 
-## GitHub Overview
+## ⟢ ⟢ 📊 GITHUB OVERVIEW ⟢ ⟢
 
 <div align="center">
 
@@ -103,7 +97,7 @@
 
 ---
 
-## Contribution Activity
+## ⟢ ⟢ 📈 CONTRIBUTIONS ⟢ ⟢
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aswini-barad&theme=github-compact&hide_border=true"/>
@@ -113,6 +107,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Build+clean.;Build+scalable.;Build+impact." />
+### ✦ Build clean. Build scalable. Build impact. ✦
 
 </div>
