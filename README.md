@@ -28,9 +28,9 @@
 
 ## About
 
-Computer Science undergraduate focused on building scalable applications and intelligent systems.  
-Strong foundation in Data Structures, Algorithms, and Machine Learning.  
-Currently building real-world projects to strengthen development skills.
+- 💻 Computer Science undergraduate focused on building scalable applications.  
+- 🧠 Strong foundation in Data Structures, Algorithms, and Machine Learning.  
+- 🚀 Currently building real-world projects to strengthen development skills.  
 
 ---
 
@@ -84,13 +84,13 @@ Currently building real-world projects to strengthen development skills.
 
 ## Selected Projects
 
-🔹 **Sentiment Analysis** – ML-based text classification using TF-IDF & Logistic Regression.  
+- 📊 **Sentiment Analysis** – ML-based text classification using TF-IDF & Logistic Regression.  
 
-🔹 **Credit Fraud Detection** – Supervised learning model for fraud prediction.  
+- 💳 **Credit Fraud Detection** – Supervised learning model for fraud prediction.  
 
-🔹 **Sidebar Menu (HTML & CSS)** – Responsive UI built purely using HTML & CSS.  
+- 🎨 **Sidebar Menu (HTML & CSS)** – Responsive UI built purely using HTML & CSS.  
 
-🔹 **VoltShare** – Flutter-based EV charging platform with Maps & payment integration.  
+- ⚡ **VoltShare** – Flutter-based EV charging platform with Maps & payment integration.  
 
 ---
 
