@@ -1,62 +1,83 @@
-<h2>Hi 👋, I'm Aswini Kumar Barad</h2>
+<div align="center">
 
-<strong>B.Tech CSE student | Machine Learning & Web Development Enthusiast</strong>
+# Aswini Kumar Barad
 
-<p>
-  <a href="https://www.linkedin.com/in/aswinikumarbarad/" target="_blank" title="LinkedIn – Aswini Kumar Barad">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/aswini_barad" target="_blank" title="X (Twitter) – @aswini_barad">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</p>
+### B.Tech Computer Science Student  
+### Software Developer • Machine Learning Enthusiast
+
+<br/>
+
+<a href="https://www.linkedin.com/in/aswinikumarbarad/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://twitter.com/aswini_barad" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" height="35"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/aswini_barad" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height="35"/>
+</a>
+
+</div>
 
 ---
 
-## 🛠 Skills & Learning Resources  
-<small>(Hover on icons • Click to learn)</small>
+## About
 
-<p>
-  <a href="https://docs.python.org/3/" target="_blank" title="Python – Official Documentation">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
+Computer Science undergraduate focused on building scalable applications and intelligent systems.  
+Strong foundation in Data Structures, Algorithms, and Machine Learning.  
+Currently working on real-world projects to strengthen development skills.
 
-  <a href="https://scikit-learn.org/stable/" target="_blank" title="Machine Learning – Scikit-learn">
-    <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  </a>
+---
 
-  <a href="https://pandas.pydata.org/docs/" target="_blank" title="Data Analysis – Pandas">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  </a>
+## Tech Stack
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML – MDN Docs">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  </a>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,flutter,dart,git,github,vscode" />
+</div>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS – MDN Docs">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </a>
+---
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript – MDN Docs">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  </a>
+## Selected Projects
 
-  <a href="https://react.dev/learn" target="_blank" title="React – Official Docs">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  </a>
+**Sentiment Analysis**  
+Machine learning model for text classification using TF-IDF and Logistic Regression.
 
-  <a href="https://docs.oracle.com/en/java/" target="_blank" title="Java – Oracle Docs">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  </a>
+**Credit Fraud Detection**  
+Fraud prediction system using supervised learning techniques.
 
-  <a href="https://en.cppreference.com/w/c" target="_blank" title="C Programming – cppreference">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  </a>
+**Sidebar Menu (HTML & CSS)**  
+Responsive sidebar UI built purely with HTML and CSS.
 
-  <a href="https://git-scm.com/doc" target="_blank" title="Git & GitHub – Version Control">
-    <img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </a>
-</p>
+**VoltShare**  
+EV charging sharing platform using Flutter, Maps integration, and payment gateway.
+
+---
+
+## GitHub Overview
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="150"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent" height="150"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true"/>
+</div>
+
+---
+
+<div align="center">
+
+### “Build clean. Build scalable. Build impact.”
+
+</div>
 
 
 
