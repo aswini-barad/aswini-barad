@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=45&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aswini+Kumar+Barad" />
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi,+I+am+Aswini+Kumar+Barad" />
 
 <br/>
 
