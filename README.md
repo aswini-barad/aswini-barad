@@ -46,14 +46,6 @@ Currently building real-world projects to strengthen development skills.
   <img src="https://skillicons.dev/icons?i=python" height="55"/>
 </a>
 
-<a href="https://numpy.org/doc/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=python" height="55"/>
-</a>
-
-<a href="https://pandas.pydata.org/docs/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=python" height="55"/>
-</a>
-
 <a href="https://en.cppreference.com/w/c" target="_blank">
   <img src="https://skillicons.dev/icons?i=c" height="55"/>
 </a>
