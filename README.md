@@ -1,9 +1,17 @@
 <div align="center">
 
-# Aswini Kumar Barad
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Aswini+Kumar+Barad;Aspiring+Software+Developer;Web+Development+Enthusiast;Machine+Learning+Enthusiast;Building+Clean+%26+Scalable+Systems" />
 
-### B.Tech Computer Science Student  
-### Software Developer • Machine Learning Enthusiast
+<br/>
+
+<h1>
+  <span style="background: linear-gradient(90deg,#58A6FF,#8A2BE2,#00C9A7); -webkit-background-clip: text; color: transparent;">
+    Aswini Kumar Barad
+  </span>
+</h1>
+
+### Aspiring Software Developer  
+### Web Development • Machine Learning Enthusiast
 
 <br/>
 
@@ -116,4 +124,5 @@ EV charging sharing platform using Flutter, Google Maps integration, and payment
 ### “Build clean. Build scalable. Build impact.”
 
 </div>
+
 
