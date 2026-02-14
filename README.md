@@ -1,9 +1,14 @@
 <div align="center">
 
-## 👋 Hey, I am <span style="color:#00C9A7;">Aswini Kumar Barad</span>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00C9A7,100:58A6FF&height=190&section=header&text=Hey%20I%20am%20Aswini%20Kumar%20Barad%20👋&fontSize=34&fontColor=ffffff&animation=fadeIn" />
 
+<br/>
+
+<h3>
 ✦ Aspiring Software Developer  
-✦ Web Development • Machine Learning Enthusiast  
+<br/>
+✦ Web Development • Machine Learning Enthusiast
+</h3>
 
 </div>
 
