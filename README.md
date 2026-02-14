@@ -76,8 +76,11 @@
 ## ⟢ ⟢ 🚀 PROJECTS ⟢ ⟢
 
 ▸ 📊 **Sentiment Analysis** – ML-based text classification using TF-IDF & Logistic Regression.  
+
 ▸ 💳 **Credit Fraud Detection** – Supervised learning model for fraud prediction.  
+
 ▸ 🎨 **Sidebar Menu (HTML & CSS)** – Responsive UI built purely using HTML & CSS.  
+
 ▸ ⚡ **VoltShare** – Flutter-based EV charging platform with Maps & payment integration.  
 
 ---
@@ -104,6 +107,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=22&duration=4000&pause=1200&color=00C9A7&center=true&vCenter=true&width=900&lines=✦+Build+clean.+Build+scalable.+Build+impact.+✦" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:58A6FF&height=130&section=footer&text=✦%20Build%20clean.%20Build%20scalable.%20Build%20impact.%20✦&fontSize=28&fontColor=ffffff&animation=fadeIn" />
 
 </div>
