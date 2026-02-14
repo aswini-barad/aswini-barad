@@ -16,9 +16,21 @@
 
 ## ⟢ ⟢ 🌐 CONNECT WITH ME ⟢ ⟢
 
-▸ 💼 [LinkedIn](https://www.linkedin.com/in/aswinikumarbarad/)  
-▸ 🐦 [Twitter](https://twitter.com/aswini_barad)  
-▸ 💻 [HackerRank](https://www.hackerrank.com/profile/aswini_barad)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aswinikumarbarad/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/aswini_barad" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/aswini_barad" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height="45"/>
+</a>
+
+</div>
 
 ---
 
